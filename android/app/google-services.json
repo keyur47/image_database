@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "79207013931",
+    "project_id": "image-database-add",
+    "storage_bucket": "image-database-add.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79207013931:android:b16a59cf3ca6a410a1946e",
+        "android_client_info": {
+          "package_name": "com.example.image_database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79207013931-o5dkgnv51n6jobmesqqdihafkftga0i9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDjPNMKFlY5VThDYuZNMJoZT_PPPzcv78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79207013931-o5dkgnv51n6jobmesqqdihafkftga0i9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
